@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Urban Incident Intelligence Dashboard",
+  "description": "A high-performance emergency response dashboard with real-time incident processing, Gemini-powered summarization, and accessible mapping.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
